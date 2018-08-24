@@ -1,4 +1,4 @@
-requrie('./config/config.js')
+requrie('./config/config.js');
 
 
 const _ = require('lodash');
