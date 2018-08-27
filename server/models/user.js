@@ -21,6 +21,7 @@ var UserSchema = new mongoose.Schema({
     require: true,
     minlength: 6
   },
+  //usePushEach: true,
   tokens: [{
     access: {
       type: String,
